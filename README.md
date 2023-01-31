@@ -1,3 +1,2 @@
-## CSCI-456 Group 6A - Ecommerce Shop
+## Final Project for intro to software engineering 
 
-this is a project.
